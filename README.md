@@ -11,9 +11,9 @@ I enjoy learning by building real projects and solving programming problems.
 - JavaScript
 - React
 - HTML & CSS
-- Python Basic
+- Python-Basic
 - Git & GitHub
-- REST APIs - Basic
+- REST APIs-Basic
 
 ## 🚀 Projects
 
