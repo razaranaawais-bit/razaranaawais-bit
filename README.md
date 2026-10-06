@@ -13,7 +13,7 @@ I enjoy learning by building real projects and solving programming problems.
 - HTML & CSS
 - Python Basic
 - Git & GitHub
-- REST APIs Basic
+- REST APIs - Basic
 
 ## 🚀 Projects
 
